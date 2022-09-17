@@ -1,0 +1,21 @@
+Permissions Size User Date Modified Name
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-046d_HD_Pro_Webcam_C920_7A2A726F-event-if00 -> ../event28
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-MSI_MYSTIC_LIGHT_A02019122002-event-if00 -> ../event20
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-event-if03 -> ../event16
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-event-mouse -> ../event10
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-if01-event-mouse -> ../event11
+lrwxrwxrwx     9 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-if01-mouse -> ../mouse1
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-if02-event-kbd -> ../event13
+lrwxrwxrwx     9 root 31 Jul 11:25  usb-Razer_Orochi_V2_000000000000-mouse -> ../mouse0
+lrwxrwxrwx    10 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-event-if01 -> ../event23
+lrwxrwxrwx    10 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-event-mouse -> ../event18
+lrwxrwxrwx    10 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-if01-event-kbd -> ../event21
+lrwxrwxrwx    10 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-if01-event-mouse -> ../event22
+lrwxrwxrwx     9 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-if01-mouse -> ../mouse4
+lrwxrwxrwx    10 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-if02-event-kbd -> ../event24
+lrwxrwxrwx     9 root 31 Jul 12:12  usb-Razer_Razer_HyperPolling_Wireless_Dongle-mouse -> ../mouse3
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-wuque_studio_ikki68_Aurora-event-if02 -> ../event15
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-wuque_studio_ikki68_Aurora-event-kbd -> ../event12
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-wuque_studio_ikki68_Aurora-if02-event-kbd -> ../event19
+lrwxrwxrwx    10 root 31 Jul 11:25  usb-wuque_studio_ikki68_Aurora-if02-event-mouse -> ../event14
+lrwxrwxrwx     9 root 31 Jul 11:25  usb-wuque_studio_ikki68_Aurora-if02-mouse -> ../mouse2
